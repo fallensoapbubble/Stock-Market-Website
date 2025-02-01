@@ -50,7 +50,7 @@ Sure thing! Here's the complete README file for your project:
    ```
 3. Start the server with nodemon:
    ```bash
-   nodemon server.js
+   nodemon index.js
    ```
 
 ## Notes
