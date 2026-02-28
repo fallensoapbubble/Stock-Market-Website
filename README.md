@@ -44,5 +44,3 @@ Stock-Market-Website/
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-
-Would you like me to make this README more **playful and humorous** (like a tongue-in-cheek "Wall Street for fun" vibe), or keep it **professional and polished** for a serious project showcase?
